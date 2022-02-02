@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables => 
+    Es una especie de caja que almacena un dato y que al preguntar por el nombre de la variable te devuelve el dato que esta almacenado en el.
+ * Strings =>
+    Es un tipo de dato que corresponde a un texto (Puede ser una frase, palabra o letra)
+ * Funciones (argumentos, `return`) =>
+    Las funciones son un conjunto de instrucciones que pueden ser invocadas a traves de un nombre (que se le asigne previamente), estas funciones pueden tener opcionalmente un parametro que se llama argumento que puede entregar un dato que este fuera de la funcion para que ingrese e intervenga en el conjunto de instrucciones y por ultimo las funciones pueden devolver un respuesta a traves del comando return una vez se termine de ejecutar las instrucciones de la funcion.
+ * Declaraciones `if` =>
+    Es un comando de JS que agrega una condicion, osea si ocurre lo que se encuentra al lado derecho del IF entonces se cumple la condicion y se pueden ejecutar instrucciones nuevas
+ * Valores booleanos (`true`, `false`) =>
+    BOOLEAN es un tipo de dato que solo almacena dos valores, true = verdadero y false = false y estos valores son devueltos siempre y cuando la instruccion escrita en JS sea verdadera o falsa
