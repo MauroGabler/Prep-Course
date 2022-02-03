@@ -1,0 +1,8 @@
+for =>
+    Es un comando que nos ayuda a crear codigo que se repetitivo de forma sencilla, dentro del for se reciben 3 parametros el primero recibe una variable inicializada en el numero que desees, el segundo una condicion de cuando se acabaria de repetir el codigo y el tercero recibe de cuanto en cuanto ira aumentando o disminuyendo el conteo.
+&& =>
+    Es un operador logico que traducido al lenguaje natural seria 'y', cumple la misma funcion que esta letra en el lenguaje comun, entender que dos condiciones se cumplen obligatoriamente.
+|| =>
+    Es un operador logico que traducido al lenguaje natural seria 'o', cumple la misma funcion que esta letra en el lenguaje comun, entender que dos condiciones podrian ocurrir simultaneamente o solo una de ellas.
+! =>
+    Es un operador logico que convierte a su opuesto al objeto que este a su derecha o tambien podria considerar que es distinto al objeto que esta a la derecha del operador !.
