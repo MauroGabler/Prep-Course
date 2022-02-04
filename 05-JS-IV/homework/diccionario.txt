@@ -1,0 +1,11 @@
+Objetos =>
+    Son muy parecidos a los arreglos pero este en vez de tener muchos datos de todo tipo, tiene mucha informacion de una sola cosa que tambien puede ser cualquier tipo de dato.
+Propiedades =>
+    Son una especia de caracteristica particular de un objeto por ejemplo si creamos un objeto persona la logica nos diria que la informacion relevante o sus caracteristicas serian el nombre, apellido, edad, estatura, peso, etc..
+    Las propiedades en js siguen un patron key:value para llamar a sus propiedas siendo key el nombre de la propiedad (ej nombre) y value el valor o el dato asignado a dicha key (ej 'Mauricio').
+Métodos =>
+    Son funciones asignadas como propiedad de un objeto y para poder invocarlas se necesita llamar a su key.
+Bucle `for…in` =>
+    Es un tipo de bucle para recorrer las propiedades de un objeto inicializando un variable que contendra a las prodiedades seguido del comando in y luego el objeto que desea recorrer.
+Notación de puntos vs notación de corchetes =>
+    Son formas de invocar una propiedad de un objeto. La notacion de punto es muy facil de escribir ya que solo se necesita el objeto.nombredepropiedad pero el lado negativo es que solo se puede acceder de esta manera mientras que la notacion de corchetes puede recibir una variable que previamente se le asigno el nombre de la propiedad pero es mas compleja su escritura objeto[nombrpropiedad o variable];
