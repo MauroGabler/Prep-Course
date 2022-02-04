@@ -1,0 +1,2 @@
+Arrays => 
+    Es una especie de caja parecida a una variable pero con mayor capacidad, ya que puede contener un sinfin de datos almacenados en ella, puede contener elementos del mismo tipo asi tambien como distintos.
